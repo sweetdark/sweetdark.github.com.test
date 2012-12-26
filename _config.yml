@@ -1,13 +1,14 @@
-﻿# ----------------------- #
+# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
 url: http://sweetdark.github.com
 title: Think And Do
-subtitle: Just to be a Geek
+time: 2012-01-20
 author: Mario
+self_introduction:
 simple_search: http://google.com/search
-description:
+description: 博客
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
