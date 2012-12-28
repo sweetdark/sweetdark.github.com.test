@@ -9,10 +9,7 @@ sass.old
 source.old
 source/_stash
 source/stylesheets/screen.css
-<<<<<<< HEAD
 source
-=======
 source/_posts
->>>>>>> 4e4cc0b63fdbde59c65124bacde02141d73f775b
 vendor
 node_modules
